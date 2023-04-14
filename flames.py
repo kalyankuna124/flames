@@ -1,6 +1,4 @@
-# input 2 names
-#findout common characers & remove that from name + reamining characters
-#based on the count find relaion
+
 name1=input("enter the name1=")
 name2=input("enter he name2=")
 
